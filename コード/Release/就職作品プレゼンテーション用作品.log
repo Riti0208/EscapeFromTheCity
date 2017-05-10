@@ -1,0 +1,65 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (週プレ.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bossAction.cpp
+  bullet.cpp
+  camera.cpp
+  collision.cpp
+  CollisionDetection.cpp
+  debugProc.cpp
+  effectManager.cpp
+  enemy.cpp
+  fade.cpp
+  fadeController.cpp
+  game.cpp
+  gameOver.cpp
+  gui.cpp
+  guiPanel.cpp
+  guiString.cpp
+  input.cpp
+  IrregularityField.cpp
+IrregularityField.cpp(120): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+IrregularityField.cpp(553): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  light.cpp
+  load.cpp
+  main.cpp
+main.cpp(196): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+main.cpp(208): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  manager.cpp
+  mode.cpp
+  model.cpp
+  motionLoad.cpp
+motionLoad.cpp(346): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+motionLoad.cpp(387): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  normalFade.cpp
+  number.cpp
+  player.cpp
+  renderer.cpp
+  result.cpp
+  ruleManager.cpp
+  scene.cpp
+  scene2D.cpp
+  scene2DAnimation.cpp
+  scene2DwL.cpp
+  scene2DwLAnimation.cpp
+  scene3D.cpp
+  sceneBillboard.cpp
+  sceneRect.cpp
+  sceneXFile.cpp
+  score.cpp
+  コンパイル中...
+  sky.cpp
+  sound.cpp
+  split.cpp
+  stage.cpp
+stage.cpp(60): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  stencilShadow.cpp
+  texture.cpp
+  title.cpp
+  コード生成しています。
+\\mac\home\documents\private\hal\kyouka\gm32\就職作品プレゼンテーション用作品\就職作品プレゼンテーション用作品\bossaction.cpp(109): warning C4715: 'newtral::update': 値を返さないコントロール パスがあります。
+\\mac\home\documents\private\hal\kyouka\gm32\就職作品プレゼンテーション用作品\就職作品プレゼンテーション用作品\bossaction.cpp(94): warning C4715: 'concentrationAttack::update': 値を返さないコントロール パスがあります。
+\\mac\home\documents\private\hal\kyouka\gm32\就職作品プレゼンテーション用作品\就職作品プレゼンテーション用作品\bossaction.cpp(61): warning C4715: 'spreadAttack::update': 値を返さないコントロール パスがあります。
+  All 2713 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  就職作品プレゼンテーション用作品.vcxproj -> \\Mac\Home\Documents\private\HAL\kyouka\GM32\就職作品プレゼンテーション用作品\就職作品プレゼンテーション用作品\Release\就職作品プレゼンテーション用作品.exe
+  就職作品プレゼンテーション用作品.vcxproj -> \\Mac\Home\Documents\private\HAL\kyouka\GM32\就職作品プレゼンテーション用作品\就職作品プレゼンテーション用作品\Release\就職作品プレゼンテーション用作品.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(196): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+main.cpp(208): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  1 of 2713 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  週プレ.vcxproj -> \\Mac\Home\Documents\private\HAL\kyouka\GM32\週プレ\Release\週プレ.exe
+  週プレ.vcxproj -> \\Mac\Home\Documents\private\HAL\kyouka\GM32\週プレ\Release\週プレ.pdb (Full PDB)
